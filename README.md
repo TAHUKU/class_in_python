@@ -1,0 +1,1 @@
+hanya class dalam python
